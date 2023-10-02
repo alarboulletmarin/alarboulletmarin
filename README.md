@@ -9,6 +9,6 @@
 <p align ="center">A passionate developer from France. Merging a love for software quality with fullstack prowess, I've honed skills from Java to Python and Angular to Spring Boot.</p>
 <br>
 <div align="center">  
-    <img src="https://github-readme-stats.vercel.app/api?username=alarboulletmarin&theme=vue-dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="alarboulletmarin's Stats" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alarboulletmarin&&show_icons=true&theme=vue-dark&include_all_commits=true" alt="alarboulletmarin's Stats" />
     <img width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alarboulletmarin&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="alarboulletmarin's Top Languages" />
 </div>
