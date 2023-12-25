@@ -11,7 +11,7 @@
   <img alt="Database" src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql">
 </p>
 
-<h3 align ="center">A passionate developer from France.</h3>
+<h3 align ="center">A passionate developer from France</h3>
 <p align ="center">A passionate developer from France. Merging a love for software quality with fullstack prowess, I've honed skills from Java to Python and Angular to Spring Boot.</p>
 
 <br>
