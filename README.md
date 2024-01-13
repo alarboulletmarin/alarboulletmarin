@@ -27,5 +27,4 @@ A passionate developer from France. Merging a love for software quality with ful
     
 <img width="275" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alarboulletmarin&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="alarboulletmarin's Top Languages" />
 
-<a href="http://www.github.com/alarboulletmarin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alarboulletmarin&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
