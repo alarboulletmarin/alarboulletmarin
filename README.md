@@ -18,6 +18,13 @@ Applied-AI software engineer in Nice, France, and a runner. On the side I build 
 | [**Bref**](https://github.com/alarboulletmarin/bref) · [website](https://alarboulletmarin.github.io/bref/) | Fast, minimal Markdown notes. Plain files in a folder you choose, styled as you type, keyboard first, works with an existing Obsidian vault. Rust + GPUI, Linux, macOS, Windows. |
 | [**Spot**](https://github.com/alarboulletmarin/spot) | Application and file launcher for GNOME, like Spotlight or Raycast. Rust + GTK4 / libadwaita. |
 | [**airplay-linux**](https://github.com/alarboulletmarin/airplay-linux) | Mirror a Linux desktop to an Apple TV over Wi-Fi. A small GTK4 / libadwaita front-end. |
+| [**debarras**](https://github.com/alarboulletmarin/debarras) | See what fills your disk, and free what can go. Folders scanned in parallel. Rust + GPUI. |
+
+## Developer tools
+
+| Project | What it is |
+|---|---|
+| [**herdr-github**](https://github.com/alarboulletmarin/herdr-github) | A GitHub panel for [Herdr](https://herdr.dev): issues, pull requests, CI and repositories beside your terminals, each turned into a brief for a coding agent. |
 
 ## Web apps: no account, no server, works offline
 
